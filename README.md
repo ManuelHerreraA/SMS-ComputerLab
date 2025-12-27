@@ -1,4 +1,4 @@
-# SMS Computer Lab: Signal Processing
+# SMS Computer Lab: Digital Signal Processing
 This repository contains the implementation of the Signal Processing Computer Laboratory (Université Paris-Saclay).
 
 ## Content
